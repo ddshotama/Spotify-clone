@@ -1,5 +1,8 @@
 # Getting Started with Spotify Clone
 
+##Figma Design
+<img width="797" alt="Screenshot 2023-05-10 at 1 59 58 AM" src="https://github.com/ddshotama/Spotify-clone/assets/62890537/94a7c172-6570-47cd-a73f-c3723d29c8ab">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Package installition
 npm install --f
@@ -23,6 +26,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+
 
 
 
